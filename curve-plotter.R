@@ -21,7 +21,7 @@ data_list <- list(data.frame(x = x_ref, y = y590ph3),
                   data.frame(x = x_ref, y = ysubph15))
 
 
-plot_titles <- c("Curva padrão 590nm pH3,0", "Curva padrão 525nm pH3,0", "Curva padrão 590nm pH1,5", "Curva padrão 525nm pH1,5", "Curva padrão 590-525nm pH3,0", "Curva padrão 590-525nm pH1,5")
+plot_titles <- c("Curva padrão 590nm pH3,0", "Curva padrão 590nm pH1,5", "Curva padrão 525nm pH3,0", "Curva padrão 525nm pH1,5", "Curva padrão 590-525nm pH3,0", "Curva padrão 590-525nm pH1,5")
 
 par(mfrow = c(3, 2))
 
